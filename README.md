@@ -160,9 +160,4 @@ AI-Based Decision Support for Enhancing Software Development Team Productivity, 
 
 ---
 
-## Contact
 
-For questions regarding this repository or the research work:
-
-Your Name
-[your_email@university.edu](mailto:your_email@university.edu)
